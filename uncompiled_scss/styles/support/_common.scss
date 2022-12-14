@@ -1,0 +1,120 @@
+.img-block {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.title {
+  font-style: normal;
+  font-size: 25px;
+  margin-left: 0;
+  line-height: 20px;
+  margin-top: 0;
+}
+
+.description {
+  font-size: 15px;
+  line-height: 25px;
+  color: #8e99a6;
+
+  .text-link {
+    color: #8e99a6;
+    text-decoration: none;
+    transition: 200ms;
+
+    &:hover {
+      color: #e8edf3;
+    }
+  }
+
+  &.white {
+    color: white;
+  }
+}
+
+.logo-img {
+  display: block;
+}
+
+.small-logo {
+  position: absolute;
+  top: 42px;
+  left: 50px;
+}
+
+.like-song {
+  position: absolute;
+  top: 42px;
+  right: 50px;
+
+  background: url("../images/like.svg") center no-repeat;
+  height: 27px;
+  width: 30px;
+  border: none;
+
+  transition: 200ms;
+
+  &.liked {
+    background: url("../images/liked.svg") center no-repeat;
+  }
+
+  &:focus {
+    outline: none;
+  }
+}
+
+.flexbox {
+  display: flex;
+  align-items: center;
+
+  &.justify {
+    justify-content: space-between;
+  }
+}
+
+.input {
+  border: 1px solid #4f5258;
+  background: #2c2f35;
+  color: white;
+  text-transform: uppercase;
+
+  text-align: center;
+  font-weight: bold;
+  font-size: 15px;
+
+  text-shadow: 0 2px 4px #4f5258;
+  line-height: 50px;
+
+  height: 46px;
+  width: 40px;
+  border-radius: 5px;
+
+  margin: 5px;
+  transition: 200ms;
+
+  &:focus {
+    outline: none;
+    border-color: #969aa1;
+  }
+}
+
+.button {
+  background: #3fabfe;
+  height: 50px;
+  width: 250px;
+  border-radius: 25px;
+  padding-top: 7px;
+
+  font-size: 12px;
+  text-transform: uppercase;
+  color: white;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  transition: 200ms;
+
+  &:hover {
+    background: white;
+    color: #3c4147;
+  }
+}

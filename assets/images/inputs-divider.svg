@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="1px" viewBox="0 0 6 1" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Rectangle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Плеер" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.20047433">
+        <g id="Плеер-Вход\ошибка" transform="translate(-631.000000, -345.000000)" fill="#E1E6EC" fill-rule="nonzero">
+            <g id="code" transform="translate(491.000000, 324.000000)">
+                <rect id="Rectangle" x="140" y="21" width="6" height="1" rx="0.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

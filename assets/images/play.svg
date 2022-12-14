@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="18px" viewBox="0 0 15 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Triangle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Плеер" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Плеер-Главная" transform="translate(-444.000000, -533.000000)" fill="#3C4147">
+            <g id="Left" transform="translate(149.000000, 143.000000)">
+                <g id="Play" transform="translate(265.000000, 364.000000)">
+                    <path d="M39.6959966,29.7135946 L46.0875013,39.9400021 C46.672922,40.8766752 46.3881757,42.1105759 45.4515026,42.6959966 C45.1336394,42.8946611 44.7663442,43 44.3915047,43 L31.6084953,43 C30.5039258,43 29.6084953,42.1045695 29.6084953,41 C29.6084953,40.6251606 29.7138342,40.2578653 29.9124987,39.9400021 L36.3040034,29.7135946 C36.8894241,28.7769215 38.1233248,28.4921752 39.0599979,29.0775958 C39.3175361,29.2385573 39.5350352,29.4560563 39.6959966,29.7135946 Z" id="Triangle" transform="translate(38.000000, 35.000000) rotate(-270.000000) translate(-38.000000, -35.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

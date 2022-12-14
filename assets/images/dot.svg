@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="8px" viewBox="0 0 6 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Playing</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Плеер" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Плеер-Главная" transform="translate(-822.000000, -299.000000)" fill="#3FABFE">
+            <g id="Right" transform="translate(798.000000, 143.000000)">
+                <path d="M27.4306625,157.846794 L29.5621454,161.044018 C29.8684978,161.503547 29.744324,162.124416 29.2847953,162.430769 C29.1205278,162.54028 28.9275201,162.598718 28.7300951,162.598718 L24.4671293,162.598718 C23.9148445,162.598718 23.4671293,162.151003 23.4671293,161.598718 C23.4671293,161.401293 23.5255673,161.208286 23.635079,161.044018 L25.7665619,157.846794 C26.0729143,157.387265 26.6937837,157.263091 27.1533124,157.569444 C27.2631647,157.642679 27.3574276,157.736942 27.4306625,157.846794 Z" id="Playing" transform="translate(26.598665, 160.000053) rotate(-270.000000) translate(-26.598665, -160.000053) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

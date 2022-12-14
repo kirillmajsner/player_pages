@@ -1,0 +1,50 @@
+.settings-body {
+  overflow: scroll;
+  white-space: nowrap;
+  height: calc(100% - 170px);
+  margin-bottom: 200px;
+  padding-top: 15px;
+
+  padding-bottom: 40px;
+
+  display: flex;
+  flex-direction: column;
+
+  .setting {
+    position: relative;
+    width: 100%;
+    padding: 0px 24px;
+
+    .title {
+      margin-top: 0;
+      font-size: 15px;
+    }
+
+    .description {
+      margin-top: 0;
+      font-size: 15px;
+    }
+  }
+
+  .footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+    padding: 20px 40px;
+
+    .copiright,
+    .who-we-are {
+      color: #8E99A6;
+      font-size: 13px;
+    }
+  }
+
+  &.opened {
+    display: none;
+  }
+}
